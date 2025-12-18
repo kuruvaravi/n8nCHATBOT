@@ -50,7 +50,6 @@ AI Agent
 4. Activate workflow
 5. Send chat messages
 
----
 
 ## 🔐 Required API Keys
 
@@ -59,12 +58,6 @@ AI Agent
 
 Store them in n8n Credentials securely.
 
----
 
-## 📁 Files Included
-
-| File | Description |
-|------|-------------|
-| README.md | Project documentation |
-| Search Ai Agent.json | Exported n8n workflow |
+|
 
