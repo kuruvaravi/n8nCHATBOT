@@ -59,7 +59,8 @@ AI Agent
 Store them in n8n Credentials securely.
 
 ## 🎥 Demo Video
-Click below to watch the workflow demo:
+Click below to watch the workflow demo:https://github.com/user-attachments/assets/84d33f93-8c78-49be-b709-79811cb93c68
+
 
 
 
